@@ -1,5 +1,6 @@
 #include <stdio.h>
 
  int main(void){
-   prinrf("Hello");
+   printf("Hello");
+   printf("66071011 ทศพร เกสรินทร์");
  }
